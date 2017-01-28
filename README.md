@@ -1,5 +1,7 @@
 # foso
 
+[![Join the chat at https://gitter.im/fosojs/foso](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fosojs/foso?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A convention over configuration bundler.
 
 [![Dependency Status](https://david-dm.org/fosojs/foso/status.svg?style=flat)](https://david-dm.org/fosojs/foso)
